@@ -1,0 +1,16 @@
+{
+  "best_features": [
+    "Net Load",
+    "Renewable Energy Load",
+    "Is Weekend",
+    "Historical Electricity Load (kW)",
+    "Current Level (A)"
+  ],
+  "num_features": 5,
+  "test_rmse_original": 33.65455072021743,
+  "test_mae_original": 23.413850784301758,
+  "test_r2": 0.9835187792778015,
+  "feature_groups_count": 21,
+  "d_z": 252,
+  "d_h": 80
+}

@@ -1,0 +1,30 @@
+# Node modules and build
+node_modules/
+build/
+dist/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual environments (if any in root)
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Ignore data/model files in backend
+
+# Ignore frontend build output
+frontend/build/
+
+# Ignore environment files
+.env
+.env.*
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
